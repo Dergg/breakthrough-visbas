@@ -1,0 +1,24 @@
+C:\Users\super\source\repos\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.exe
+C:\Users\super\source\repos\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.deps.json
+C:\Users\super\source\repos\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.runtimeconfig.json
+C:\Users\super\source\repos\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.runtimeconfig.dev.json
+C:\Users\super\source\repos\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.dll
+C:\Users\super\source\repos\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.pdb
+C:\Users\super\source\repos\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.vbprojAssemblyReference.cache
+C:\Users\super\source\repos\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.AssemblyInfo.vb
+C:\Users\super\source\repos\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.vbproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.dll
+C:\Users\super\source\repos\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.pdb
+C:\Users\super\source\repos\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.genruntimeconfig.cache
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.exe
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.deps.json
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.runtimeconfig.json
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.runtimeconfig.dev.json
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.dll
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\bin\Debug\netcoreapp3.1\skeleton.pdb
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.vbprojAssemblyReference.cache
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.AssemblyInfoInputs.cache
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.AssemblyInfo.vb
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.dll
+Y:\A-Level CS\VISBASIC Programs\Breakthrough\skeleton\skeleton\obj\Debug\netcoreapp3.1\skeleton.pdb
